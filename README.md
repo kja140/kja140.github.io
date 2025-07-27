@@ -1,6 +1,8 @@
-# Bebop7c.github.io
+# kja140.github.io
 
-This repository hosts a simple personal website summarising university and personal projects. The page is served via [GitHub Pages](https://pages.github.com/).
+This repository hosts a simple personal website summarising university and personal projects. 
+
+Link to the page here: kja140.github.io
 
 ## Development
 Edit `index.html` to update the content. Commit changes and push to the `main` branch to publish.
